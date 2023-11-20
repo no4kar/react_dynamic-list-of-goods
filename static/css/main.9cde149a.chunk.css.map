@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,SACE,SAAqB,CACtB,QAGC,WAAqB,CACtB,SAGC,UAAqB","file":"main.9cde149a.chunk.css","sourcesContent":["// styles go here\n.is-ripe {\n  color: rgb(255, 0, 0);\n}\n\n.is-raw {\n  color: rgb(0, 128, 0);\n}\n\n.is-cool {\n  color: rgb(0, 0, 255);\n}\n"]}
